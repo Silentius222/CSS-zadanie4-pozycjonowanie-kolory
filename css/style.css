@@ -21,6 +21,7 @@
     background-color: orange;
     padding: 10px;
     color: white;
+    justify-content: center;
 }
 
 .item:nth-of-type(1) {
@@ -64,7 +65,7 @@
     width: 75px;
     border-radius: 50px;
     background-color: green;
-    justify-content: center;
+    margin: auto;
 }
 
 .jeden {
