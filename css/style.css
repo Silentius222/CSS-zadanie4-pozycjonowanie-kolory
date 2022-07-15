@@ -26,42 +26,6 @@
     display: flex; 
 }
 
-.item:nth-of-type(1) {
-    background-color: red;
-}
-
-.item:nth-of-type(2) {
-    background-color: blue;
-}
-
-.item:nth-of-type(3) {
-    background-color: green;
-}
-
-.item:nth-of-type(4) {
-    background-color: yellow;
-}
-
-.item:nth-of-type(5) {
-    background-color: black;
-}
-
-.item:nth-of-type(6) {
-    background-color: orange;
-}
-
-.item:nth-of-type(7) {
- background-color: purple;
-}
-
-.item:nth-of-type(8) {
-    background-color: gray;
-}
-
-.item:nth-of-type(9) {
-    background-color: pink;
-}
-
 .kolo {
     height: 75px;
     width: 75px;
